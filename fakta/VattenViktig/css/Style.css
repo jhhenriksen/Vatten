@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+   background-image: url("../images/sten.jpg");
+   background-size: 1500px 1300px;
+}
+hr {
+    border-color: black;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+h1{
+    margin-right: 20px;
+}
+p {
+    text-align: center;
+    color: black;
+}
+div{
+    text-align: center;
+}
+p {
+    color: rgb(11, 11, 9);
+}

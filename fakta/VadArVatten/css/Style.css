@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+background-image: url("../images/free-photo-of-tra-landskap-vatten-sommar.jpeg");
+background-size: cover;
+
+}
+
+h1{
+    color: rgb(240, 215, 179);
+}
+h2{
+    color: white;
+}

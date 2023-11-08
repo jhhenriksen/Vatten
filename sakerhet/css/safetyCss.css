@@ -1,0 +1,60 @@
+.tr{
+    width: 500px;
+    height: 300px;
+    border-radius: 5px;
+    border-style:inset;
+    animation: rainbowBackground 15s linear infinite
+}
+.platta1 {
+    
+    top: 200px;
+    width: 720px;
+    max-height: fit-content;
+    background-color: #1c1e24;
+    z-index: -5;
+    opacity: 0.8;
+    border-radius: 30px;
+    }
+    .platta2 {
+        top: 200px;
+        width: 720px;
+        max-height: fit-content;
+        background-color: #1c1e24;
+        z-index: -15;
+        opacity: 0.8;
+        border-radius: 30px;
+        }
+.tr2{
+    width: 500px;
+    height: 150px;
+    border-radius: 5px;
+    border-style:inset;
+    animation: rainbowBackground 15s linear infinite
+}
+@keyframes rainbowBackground {
+    0% {
+        background-color: rgb(0, 191, 255);
+    }
+    50%{
+        background-color: rgb(0, 140, 255);
+    }
+    100%{
+        background-color: rgb(0, 149, 255); 
+    }
+}
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: initial;
+  color: white;
+}
+.h1class{
+    font-size: xx-large;
+}
+h3{
+    font-size:x-small;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+td{
+    color: white;
+}
